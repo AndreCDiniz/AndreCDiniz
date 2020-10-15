@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **AndreCDiniz/AndreCDiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# André Diniz :man_technologist:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logoColor=white&link=https://www.linkedin.com/in/andrefcdiniz/)](https://https://www.linkedin.com/in/andrefcdiniz/)
+
+## Hello! Welcome to my profile 👋
+
+My name is André and ...
+
+- 📈 I love learn new thinks!
+- 📚 Currently studying Java, HTML, CSS and JavaScript 
+- ✈️ and I also like to travel
