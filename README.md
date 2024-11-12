@@ -2,7 +2,7 @@
 ## Hello! My name is André Diniz and welcome to my profile! :man_technologist:
 
 - 📈 I love learn new thinks!
-- 📚 Currently working as FullStack Developer Spring and Angular 9 
+- 📚 Currently working as FullStack Developer 
 
 <div align="center">
   <a href="https://github.com/AndreCDiniz">
